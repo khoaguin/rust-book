@@ -1,1 +1,0 @@
-/home/dk/Desktop/projects/rust-book/chap13_minigrep2/target/debug/minigrep2: /home/dk/Desktop/projects/rust-book/chap13_minigrep2/src/lib.rs /home/dk/Desktop/projects/rust-book/chap13_minigrep2/src/main.rs
